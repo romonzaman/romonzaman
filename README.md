@@ -1,23 +1,15 @@
-### Hello,
+Businesses don’t lose customers because of bad products.
+They lose them because of poor communication.
 
-My name is `Mohammad Kamruzzaman`. 
+I work as a VoIP System Architect, helping businesses grow by designing and optimizing their telephone and communication networks.
 
-For the past few years, I have been employed as a VoIP engineer and have aided numerous businesses with their customer acquisition, customer support, and overall communication through my services, including system design, setup, customisation, and maintenance. Communication is an essential element in any business, and my expertise can assist in constructing a dependable communication tool for your company.
+My focus is not just on technology, but on outcomes:
 
-My primary areas of expertise are:
+- Faster customer response
+- Fewer missed calls
+- Better call quality
+- Scalable systems that support growth
 
-- FreeSWITCH
-- Kamailio, OpenSIPS
-- Programming languages such as Python, Lua, PHP
-- Database management using PostgreSQL and MySQL
-- Server administration, Docker, and AWS.
-- 
+I design intelligent VoIP architectures using SIP, Kamailio, FreeSWITCH, and modern automation, always aligned with business goals.
 
-My Contact:
-```
-pstn: +1 (786) 664-8610
-whatsapp: +8801755650208
-skype: dtsoftwaresolutions
-email: romon.zaman@gmail.com
-linkedin: https://www.linkedin.com/in/mkzamanllc/
-```
+If you believe communication is a growth engine, let’s connect.
